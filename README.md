@@ -1,15 +1,15 @@
 # BIT 2118 Scientific Computing Group Work
 
-Name: Samwel Abuga Manono
-Reg No: BSCCS/2024/56213
+Name: Georgina Muthoni Thuo
+Reg No: BSCCS/2024/52756
 Unit: BIT 2118 Scientific Computing
 
 This repository has my individual work for the group tasks 2 to 20. For each task I did the following:
 
-- B. Identified the input values and the mathematical operation.
-- C. Changed at least one input and explained how the result changed.
-- D. Explained what the output means and what the graph shows.
-- E. Changed the program to solve a different real-world problem and wrote down the assumptions, input data, output and interpretation.
+- A. Identified the input values and the mathematical operation.
+- B. Changed at least one input and explained how the result changed.
+- C. Explained what the output means and what the graph shows.
+- D. Changed the program to solve a different real-world problem and wrote down the assumptions, input data, output and interpretation.
 
 ## Folders
 
